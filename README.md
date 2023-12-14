@@ -35,14 +35,14 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-<p>A automação Basic Clean System é uma ferramenta de limpeza automatizada projetada para otimizar o desempenho do seu sistema, removendo arquivos temporários desnecessários das pastas 'Temp' e '%temp%'. Esta aplicação foi desenvolvida com o objetivo de proporcionar uma experiência de usuário mais fluida e garantir a eficiência do seu computador, eliminando rapidamente os dados temporários acumulados.</p>
+<p>Este projeto apresenta uma solução inovadora que utiliza a linguagem de programação Python para automatizar a identificação de imagens, com destaque para a capacidade única de reconhecer e preencher automaticamente captchas. Através de técnicas avançadas de processamento de imagens e aprendizado de máquina, o sistema é capaz de reconhecer padrões específicos, incluindo captchas, e acionar uma lógica pré-definida em resposta</p>
 
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- :white_check_mark: O software realiza a limpeza das pastas 'Temp' e '%temp%' de forma automatizada, poupando o usuário da tarefa manual.
+- :white_check_mark: Identificação automática de imagens, com foco especial em captchas.
 
  
 ---
